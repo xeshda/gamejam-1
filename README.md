@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/antomuto4/gamejam-1/main/assets/icon.png)
 # Goal
 this is the first time I put myself in a time limit to build something, the idea behind this is that I practice finishing games instead of only programming them.
 
